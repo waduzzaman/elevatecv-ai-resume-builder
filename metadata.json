@@ -1,0 +1,5 @@
+{
+  "name": "ElevateCV - AI Resume Builder",
+  "description": "A professional AI-powered resume builder that helps you craft high-impact resumes using Gemini. Features AI-generated summaries, optimized bullet points, and real-time preview.",
+  "requestFramePermissions": []
+}
